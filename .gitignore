@@ -3,4 +3,4 @@ __pycache__/
 *.pyo
 .ipynb_checkpoints/
 sfeda-env/
-data/raw/
+data/
