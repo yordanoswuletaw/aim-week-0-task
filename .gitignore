@@ -2,6 +2,4 @@ __pycache__/
 *.pyc
 *.pyo
 .ipynb_checkpoints/
-env0/
-data/
-notebooks/
+sfeda-env/
